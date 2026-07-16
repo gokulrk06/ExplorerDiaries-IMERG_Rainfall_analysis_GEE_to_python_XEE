@@ -74,6 +74,4 @@ Then open `XEE_IMERG_precip.ipynb`, run `ee.Authenticate()` once (credentials ar
 - Pull at native 0.1° resolution and compare against IMD's 0.25° grid to assess downscaling differences
 - Automate yearly chunked export for longer time ranges
 
-## License
 
-Add a license of your choice (e.g., MIT) here.
